@@ -1,0 +1,4 @@
+db.url=jdbc:oracle:thin:@//localhost:1521/XEPDB1
+db.user=ERRJAVA
+db.password=ERRJAVA
+xml.file.path=C:\\Users\\Ikaslea\\eclipse-workspace\\ERRONKAJAVA\\fitxategiak\\3PAG2_E1_kanpinak.xml
